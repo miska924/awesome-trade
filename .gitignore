@@ -1,0 +1,7 @@
+build
+.vscode
+.venv
+telegram_bot.json
+test.png
+telegram.png
+tmp.json
